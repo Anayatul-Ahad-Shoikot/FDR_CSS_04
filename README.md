@@ -1,7 +1,8 @@
 # Frontend Exercises – Position & Pseudo-elements
 
 This repository contains small frontend practice projects as part of my **Frontend Development Journey** (React/Next.js learning path). The exercises focus on **CSS positioning, pseudo-elements, and styling techniques**.
-Live demo 👉 ![here](https://fdrcss04.netlify.app/)
+
+Live demo 👉 [here](https://fdrcss04.netlify.app/)
 
 ---
 
